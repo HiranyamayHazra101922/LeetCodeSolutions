@@ -23,6 +23,7 @@ Leetcode Solutions To DSA Problems
 | [0349-intersection-of-two-arrays](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0792-binary-search](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Leetcode Solutions To DSA Problems
 | [0035-search-insert-position](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
