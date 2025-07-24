@@ -24,6 +24,7 @@ Leetcode Solutions To DSA Problems
 | [0414-third-maximum-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0792-binary-search) |
 ## Hash Table
@@ -41,6 +42,7 @@ Leetcode Solutions To DSA Problems
 | ------- |
 | [0009-palindrome-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Leetcode Solutions To DSA Problems
 | [0349-intersection-of-two-arrays](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
