@@ -37,6 +37,7 @@ Leetcode Solutions To DSA Problems
 | [0268-missing-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1904-second-largest-digit-in-a-string](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Leetcode Solutions To DSA Problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
+| [1904-second-largest-digit-in-a-string](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 ## Trie
 |  |
 | ------- |
