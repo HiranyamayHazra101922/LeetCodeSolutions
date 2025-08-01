@@ -11,6 +11,7 @@ Leetcode Solutions To DSA Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -59,6 +60,7 @@ Leetcode Solutions To DSA Problems
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0344-reverse-string) |
@@ -66,6 +68,7 @@ Leetcode Solutions To DSA Problems
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
