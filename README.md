@@ -33,6 +33,7 @@ Leetcode Solutions To DSA Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
@@ -44,11 +45,13 @@ Leetcode Solutions To DSA Problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
