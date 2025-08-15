@@ -46,6 +46,7 @@ Leetcode Solutions To DSA Problems
 | ------- |
 | [0009-palindrome-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
@@ -95,6 +96,7 @@ Leetcode Solutions To DSA Problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0792-binary-search) |
