@@ -54,6 +54,7 @@ Leetcode Solutions To DSA Problems
 | ------- |
 | [0013-roman-to-integer](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 ## Trie
@@ -133,4 +134,8 @@ Leetcode Solutions To DSA Problems
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
