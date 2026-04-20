@@ -30,6 +30,7 @@ Leetcode Solutions To DSA Problems
 | [0724-find-pivot-index](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,4 +142,8 @@ Leetcode Solutions To DSA Problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
