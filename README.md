@@ -29,6 +29,7 @@ Leetcode Solutions To DSA Problems
 | [0628-maximum-product-of-three-numbers](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0792-binary-search) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Hash Table
@@ -146,4 +147,12 @@ Leetcode Solutions To DSA Problems
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
