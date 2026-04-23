@@ -33,6 +33,7 @@ Leetcode Solutions To DSA Problems
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2615-sum-of-distances](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Leetcode Solutions To DSA Problems
 | [0349-intersection-of-two-arrays](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1904-second-largest-digit-in-a-string](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [2615-sum-of-distances](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2615-sum-of-distances) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Leetcode Solutions To DSA Problems
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
+| [2615-sum-of-distances](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2615-sum-of-distances) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
