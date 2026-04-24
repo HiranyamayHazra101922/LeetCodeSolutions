@@ -64,6 +64,7 @@ Leetcode Solutions To DSA Problems
 | [0344-reverse-string](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Leetcode Solutions To DSA Problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [2833-furthest-point-from-origin](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
 | ------- |
