@@ -34,6 +34,7 @@ Leetcode Solutions To DSA Problems
 | [2078-two-furthest-houses-with-different-colors](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2615-sum-of-distances) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Leetcode Solutions To DSA Problems
 | [0069-sqrtx](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## String
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Leetcode Solutions To DSA Problems
 | [0414-third-maximum-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +115,7 @@ Leetcode Solutions To DSA Problems
 | [0349-intersection-of-two-arrays](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,4 +167,8 @@ Leetcode Solutions To DSA Problems
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
