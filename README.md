@@ -29,6 +29,7 @@ Leetcode Solutions To DSA Problems
 | [0628-maximum-product-of-three-numbers](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0792-binary-search) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -162,13 +163,23 @@ Leetcode Solutions To DSA Problems
 ## Depth-First Search
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Geometry
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
