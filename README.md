@@ -37,6 +37,7 @@ Leetcode Solutions To DSA Problems
 | [2078-two-furthest-houses-with-different-colors](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2615-sum-of-distances) |
+| [3225-maximum-score-from-grid-operations](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ Leetcode Solutions To DSA Problems
 | ------- |
 | [0118-pascals-triangle](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3225-maximum-score-from-grid-operations](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Leetcode Solutions To DSA Problems
 | ------- |
 | [0724-find-pivot-index](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [2615-sum-of-distances](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2615-sum-of-distances) |
+| [3225-maximum-score-from-grid-operations](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -191,4 +194,5 @@ Leetcode Solutions To DSA Problems
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3225-maximum-score-from-grid-operations](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/3225-maximum-score-from-grid-operations) |
 <!---LeetCode Topics End-->
