@@ -23,6 +23,7 @@ Leetcode Solutions To DSA Problems
 | [0268-missing-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0506-relative-ranks) |
@@ -59,6 +60,7 @@ Leetcode Solutions To DSA Problems
 | [0013-roman-to-integer](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -107,6 +109,7 @@ Leetcode Solutions To DSA Problems
 | ------- |
 | [0118-pascals-triangle](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0396-rotate-function) |
 | [3225-maximum-score-from-grid-operations](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Bit Manipulation
 |  |
