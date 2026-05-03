@@ -72,6 +72,7 @@ Leetcode Solutions To DSA Problems
 | [0014-longest-common-prefix](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2833-furthest-point-from-origin) |
@@ -200,4 +201,8 @@ Leetcode Solutions To DSA Problems
 | [1559-detect-cycles-in-2d-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/3225-maximum-score-from-grid-operations) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
