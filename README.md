@@ -11,6 +11,7 @@ Leetcode Solutions To DSA Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -58,6 +59,7 @@ Leetcode Solutions To DSA Problems
 | ------- |
 | [0009-palindrome-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0396-rotate-function) |
@@ -197,6 +199,7 @@ Leetcode Solutions To DSA Problems
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
