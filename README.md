@@ -38,6 +38,7 @@ Leetcode Solutions To DSA Problems
 | [1914-cyclically-rotating-a-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -95,6 +96,7 @@ Leetcode Solutions To DSA Problems
 | [0344-reverse-string](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -214,4 +216,5 @@ Leetcode Solutions To DSA Problems
 |  |
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/HiranyamayHazra101922/LeetCodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
